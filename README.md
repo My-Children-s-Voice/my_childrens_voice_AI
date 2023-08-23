@@ -54,7 +54,9 @@
         
   
 ### Inference
-  + male/female_tacotron + male/female_waveglow로 TTS 문장 생성 ->  weight/test.pth로 Voice Conversion (./test_output/output.wav)
+  + male/female_tacotron + male/female_waveglow로 TTS 문장 생성
+  
+    -> weight/test.pth로 Voice Conversion (./test_output/output.wav)
         
         python inference.py
         
