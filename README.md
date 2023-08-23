@@ -10,7 +10,7 @@
 
   TTS model의 Output TTS 문장 -> SVC model로 Voice Conversion 된 Output TTS 문장
 
-  ex) (female) 어머니 진지는 잡수셨어요? -> (단일화자) 어머니 진지는 잡수셨어요?.
+  ex) (female) 어머니 진지는 잡수셨어요? -> (단일화자) 어머니 진지는 잡수셨어요?
 --------------------
 ## 실행
 
